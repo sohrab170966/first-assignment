@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+}
+.header{
+    background-image: url(../images/banner/banner1.png);
+    width: 1600px;
+height: 808px;
+}
+.banner-header{
+    text-align: right;
+    position: absolute;
+ width: 525px;
+height: 228px; 
+padding: 217px 245px 363px 840px;
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+text-align: right;
+}
+span{
+    color: hsl(0, 100%, 50%);
+}
+.header-des{
+    position: absolute; padding: 470px 235px 261px 871px;
+ width: 494px;
+height: 78px;
+
+font-weight: 400;
+font-size: 16px;
+}
+.button{
+    position: absolute; font-size: large;
+     font-style:italic;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+background: #ff0000;
+border-radius: 10px;
+border: none;
+
+}
+.second{
+    display: flex; 
+    /* margin: 110px 310px; */
+}
+.second-part{
+/* display: flex; */
+}
+.second-part-heading{
+    font-weight: 700;
+font-size: 40px;
+padding: 160px 200px 21opx 800px;
+}
+.second-part-description{
+    font-weight: 400;
+font-size: 16px;
+padding:24px 322px 16px 824px ;
+}
+.second-part-last{
+    padding: 2px 360px 210px 850px;
+}
