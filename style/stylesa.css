@@ -45,18 +45,90 @@ border: none;
     /* margin: 110px 310px; */
 }
 .second-part{
-/* display: flex; */
+display: flex; 
+margin: 80px 220px; 
+
 }
 .second-part-heading{
     font-weight: 700;
-font-size: 40px;
-padding: 160px 200px 21opx 800px;
+font-size: 40px;position: absolute;
+width: 298px;
+height: 94px;
+left: 862px;
+top: 1078px;
+/* padding: 0px 200px 20px 800px; */
 }
 .second-part-description{
-    font-weight: 400;
+    font-weight: 400;position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;    
 font-size: 16px;
-padding:24px 322px 16px 824px ;
+/* padding:24px 322px 16px 824px ; */
 }
 .second-part-last{
-    padding: 2px 360px 210px 850px;
+    position: absolute;
+    width: 240px;
+    height: 26px;
+    left: 862px;
+    top: 1450px;
+    gap: 5px;
+}
+.third-part{
+  text-align: center;
+
+}
+   .thirdheading{
+   font-size: 45px;font-weight: 700;
+position: absolute;
+width: 179px;
+height: 40px;
+left: 700px;
+top: 1792.3px;
+    left: 700px;
+   }
+    .third-part-images{
+display: flex;
+position: absolute;
+width: 1141px; margin-top: 20px;
+height: 299.96px;
+left: 430px;
+top: 1792.3px;
+
+gap: 100px;
+align-items: center;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #737272;
+
+}
+.fourth{
+    background-image: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221px;
+    border-radius: 8px;
+}
+.fourth-header{
+    padding: 65px 610px 65px 66px;
+}
+.fourth-titlebar{
+    font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+}
+.button-second{
+    position: absolute; border-radius: 5px;
+width: 160px; border: none; color: rgb(255, 1, 1);
+font-size: large;
+height: 64px;
 }
