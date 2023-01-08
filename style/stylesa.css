@@ -177,5 +177,19 @@ height: 64px;
     color: #ffffff;
 }
 .extra{
-    background-image: url(../image);
+    background-image: url(../images/FB_IMG_1661940986108.jpg); background-repeat: no-repeat;
+    height: 1080px; width: 1400px;
+text-align: justify; 
+display: flex;
+}
+.extra-header{
+    color: #7aac7e; padding-top: 125%;
+    
+   
+    
+}
+.xbutton{
+    color: #7aac7e; background-color: #000000; border-color: #7aac7e;
+    height: 40px; border-top-right-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
