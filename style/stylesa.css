@@ -38,6 +38,7 @@ top: 578px;
 background: #ff0000;
 border-radius: 10px;
 border: none;
+color: antiquewhite;
 
 }
 .second{
@@ -131,4 +132,40 @@ color: #FFFFFF;
 width: 160px; border: none; color: rgb(255, 1, 1);
 font-size: large;
 height: 64px;
+}
+.last{
+    display: flex; background-color: black;
+   margin-top: 1050px;
+   width: 1600px; color: #ffffff;
+}
+.last-leftside{
+    padding: 30px 85px 30px;
+    color: rgb(255, 115, 0);
+
+}
+.last-rightside{
+    background-color: rgb(2, 2, 2);
+}
+.last-heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 10%;
+    padding-top: 10%; color: #ff7300;
+}
+.email{
+    background-color: #ffffff;
+    width: 200px;
+    height: 64px;
+    
+    font-weight: 300;
+    font-size: 18px;
+    color: #ffffff;
+}
+.last-buton{
+    background-color: #ff7300;
+    width: 160px;
+    height: 64px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
 }
